@@ -1,5 +1,5 @@
 var randomNumber;
-
+var test;
 function startBody() {
   // let timeInterval = 3000;
   changeBackgroundImage();
